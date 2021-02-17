@@ -16,7 +16,8 @@
 This project involves developing a new typeface of অ and ক.
 The project is dedicated for
 
-Course Code: CSE-456
+Course Code: CSE-456 <br>
+
 Course Title: Multimedia and Animation Techniques Laboratory
 
 
@@ -36,14 +37,14 @@ Course Title: Multimedia and Animation Techniques Laboratory
 <table style="width:100%">
   <tr>
     <td> 
-      Submitted by
+      Submitted by <br>
       <b>Sarmistha Sarna Gomasta</b> <br>
       B. Sc. in Computer Science <br>
       Jahangirnagar University <br>
       Dhaka, Bangladesh
     </td>
     <td> 
-      Course Instructor
+      Course Instructor <br>
       <b>Dr. Mohammad Zahidur Rahman</b> <br>
       Professor at Computer Science and Engineering <br>
       Jahangirnagar University <br>
