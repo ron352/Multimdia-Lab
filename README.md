@@ -7,6 +7,7 @@
     <td> 
       Submitted by <br>
       <b>Sarmistha Sarna Gomasta</b> <br>
+      ID :352 <br>
       B. Sc. in Computer Science <br>
       Jahangirnagar University <br>
       Dhaka, Bangladesh
@@ -14,7 +15,8 @@
     <td> 
       Course Instructor <br>
       <b>Dr. Mohammad Zahidur Rahman</b> <br>
-      Professor at Computer Science and Engineering <br>
+      Professor <br>
+      Computer Science and Engineering <br>
       Jahangirnagar University <br>
       Dhaka, Bangladesh
     </td>
