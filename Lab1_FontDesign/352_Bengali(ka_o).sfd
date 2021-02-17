@@ -1,0 +1,143 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2021, DELL
+UComments: "2021-2-17: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 885 -1817975664 24394]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613572983
+ModificationTime: 1613579630
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 2090 38 13
+BeginChars: 65536 2
+
+StartChar: uni0995
+Encoding: 2106 2453 0
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+531 557 m 1
+ 418 469 l 1
+ 529 385 l 1
+ 531 557 l 1
+570 629.247311828 m 1
+ 664 607 l 25
+ 718 555 l 25
+ 716 501 l 25
+ 702 441 l 25
+ 678 433 l 25
+ 640 439 l 25
+ 634 477 l 25
+ 650 493 l 25
+ 668 491 l 25
+ 674 475 l 25
+ 702 507 l 25
+ 692 533 l 25
+ 636 585 l 25
+ 570 595 l 25
+ 570 629.247311828 l 1
+330 459 m 25
+ 582 269 l 1
+ 581.030845931 291.000001239 l 1
+ 581.030845931 291.000001239 566.603551886 627.339092323 570 629.247311828 c 0
+ 574 631.494623656 330 459 330 459 c 25
+157 672 m 1
+ 870 673 l 1
+ 872 633 l 1
+ 570 629.247311828 l 0
+ 156 633 l 9
+ 157 672 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0985
+Encoding: 2107 2437 1
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+739.72 381 m 1
+ 838 300 l 25
+ 853 282 l 25
+ 856 597 l 25
+ 856 618 l 1
+ 856 618 787 618 793 621 c 0
+ 799 624 796 405 796 405 c 1
+ 796 405 751 435 754 432 c 0
+ 757 429 739.72 381 739.72 381 c 1
+634 546 m 25
+ 628 501 l 25
+ 580 483 l 25
+ 541 501 l 25
+ 541 501 520 543 538 555 c 0
+ 556 567 583 597 583 597 c 25
+ 667 594 l 25
+ 700 570 l 25
+ 733 537 l 25
+ 745 495 l 25
+ 754 432 l 17
+ 739.72 381 l 0
+ 733 357 l 9
+ 685 321 l 25
+ 586 297 l 1
+ 481 303 l 25
+ 439 342 l 1
+ 355 465 l 25
+ 310 513 l 25
+ 370 543 l 25
+ 400 507 l 25
+ 442 444 l 1
+ 484 390 l 1
+ 544 348 l 1
+ 610 360 l 1
+ 670 384 l 25
+ 691 429 l 25
+ 691 483 l 25
+ 664 531 l 25
+ 634 546 l 25
+232 678 m 1
+ 943 672 l 1
+ 946 618 l 1
+ 229 612 l 1
+ 232 678 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
