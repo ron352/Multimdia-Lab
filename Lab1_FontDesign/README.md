@@ -34,7 +34,7 @@ Course Title: Multimedia and Animation Techniques Laboratory
 
 # Credits 
 
-table style="width:100%">
+<table style="width:100%">
   <tr>
     <td> 
       Submitted by <br>
