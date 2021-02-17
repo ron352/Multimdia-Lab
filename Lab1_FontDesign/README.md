@@ -34,11 +34,12 @@ Course Title: Multimedia and Animation Techniques Laboratory
 
 # Credits 
 
-<table style="width:100%">
+table style="width:100%">
   <tr>
     <td> 
       Submitted by <br>
       <b>Sarmistha Sarna Gomasta</b> <br>
+      ID :352 <br>
       B. Sc. in Computer Science <br>
       Jahangirnagar University <br>
       Dhaka, Bangladesh
@@ -46,13 +47,13 @@ Course Title: Multimedia and Animation Techniques Laboratory
     <td> 
       Course Instructor <br>
       <b>Dr. Mohammad Zahidur Rahman</b> <br>
-      Professor at Computer Science and Engineering <br>
+      Professor <br>
+      Computer Science and Engineering <br>
       Jahangirnagar University <br>
       Dhaka, Bangladesh
     </td>
    
   </tr>
 </table>
-
 ## Conclusion
 Checkout the [wiki](https://www.demo.com) for detail description of the project.
