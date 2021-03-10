@@ -13,7 +13,7 @@
 
 
 # Description
-This project involves developing a new typeface of অ and ক.
+This project involves developing a new typeface of অ and ক and different font style of it.
 The project is dedicated for
 
 Course Code: CSE-456 <br>
